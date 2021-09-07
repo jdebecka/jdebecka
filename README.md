@@ -1,6 +1,6 @@
 ### Hi fellow devs 👋
 
-[![Julia's github stats](https://github-readme-stats.vercel.app/api?username=jdebecka&count_private=true&theme=radical&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
+[![Julia's github stats](https://github-readme-stats.vercel.app/api?username=jdebecka&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Julia's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdebecka&theme=radical&v=2)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -9,6 +9,6 @@
 
 Here are some ideas to get you started:
 
-- 💚 I’m currently working at Netguru 💚
+- 🦄 I’m working at Very Good Ventures 🦄
 - 💬 Ask me about Flutter Development
 - ⚡ Fun fact: I have a pitbull and he didn't murder anyone yet. 🤗
